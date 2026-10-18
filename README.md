@@ -39,7 +39,7 @@
 
 <h3>🌐 Emerging World</h3>
 
-<img src="#" alt="Digital solutions"/>
+<img src="https://img.shields.io/badge/DIGITAL_SOLUTIONS-701A3D?style=for-the-badge" alt="Digital solutions"/>
 
 <p>Web development, AI automation, custom business tools, e-commerce and digital services.</p>
 
