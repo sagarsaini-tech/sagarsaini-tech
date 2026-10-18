@@ -1,4 +1,3 @@
-
 <!-- ================= SAGAR SAINI | GITHUB PROFILE ================= -->
 
 <div align="center">
@@ -11,15 +10,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/sagarsaini-tech"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/sagar-saini-tech/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://emergingworld.in/"><img src="https://img.shields.io/badge/Emerging_World-Visit-701A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Emerging World"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sagarsaini-tech&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
 
 <em>Designing · Developing · Automating · Innovating</em>
 
@@ -27,195 +17,32 @@
 
 ---
 
-## ◈ About Me
 
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
+# 💫 About Me:
+👨‍💻 I’m currently working on Web Development & AI Automation<br>🤝 I’m looking to collaborate on Web, AI & Automation projects<br>💡 I’m looking for help with AI Agents & Advanced Automation<br>🌱 I’m currently learning React, Node.js & AI Technologies<br>💬 Ask me about WordPress, SEO, Web Development & Automation<br>⚡ Fun fact: I love turning ideas into useful digital solutions
 
-<h3>Hey, I'm Sagar Saini 👋</h3>
 
-Web Developer and AI Automation Enthusiast with 2+ years of practical experience building responsive websites, business applications, e-commerce solutions, and automation workflows.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sagarsainiofficially) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/just_sagarsaini/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sagar-saini-tech/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@emergingworld.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarsaini98131@gmail.com) 
 
-I focus on creating digital products that solve real problems and deliver practical value.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
-- 🌐 Responsive websites and web applications
-- 🤖 AI automation and LLM integrations
-- 🛒 WordPress, WooCommerce and Shopify
-- ⚙️ REST APIs, backend systems and databases
-- 📊 Python, data analytics and visualization
 
-<strong>Current focus:</strong> Web engineering, AI-powered tools and scalable digital solutions.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sagarsaini-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</td>
-<td width="35%" align="center" valign="middle">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python&perline=4" alt="Core technologies"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/WEB-ENGINEERING-0EA5E9?style=for-the-badge" alt="Web engineering"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI-AUTOMATION-8B5CF6?style=for-the-badge" alt="AI automation"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PRODUCT-BUILDING-10B981?style=for-the-badge" alt="Product building"/>
-
-</td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sagarsaini-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sagarsaini-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ◈ Technology Stack
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/TECHNOLOGIES-I_USE-0EA5E9?style=for-the-badge" alt="Technologies I use"/>
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-<h3>🎨 Frontend</h3>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" alt="HTML CSS JavaScript TypeScript"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind&perline=4" alt="React Next.js React Native Tailwind"/>
-
-<br/><br/>
-
-<sub>Responsive UI · Modern Web Apps</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>🧩 CMS & E-Commerce</h3>
-
-<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify&perline=3" alt="WordPress WooCommerce Shopify"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/>
-<img src="https://img.shields.io/badge/Divi-6C2EB9?style=flat-square" alt="Divi"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square" alt="Shopify Liquid"/>
-
-<br/><br/>
-
-<sub>Websites · Online Stores</sub>
-
-</td>
-<td width="34%" valign="top" align="center">
-
-<h3>⚙️ Backend & APIs</h3>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Node.js and Express"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Authentication-8B5CF6?style=flat-square" alt="Authentication"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/API_Integration-10B981?style=flat-square" alt="API integration"/>
-
-<br/><br/>
-
-<sub>Server Logic · Integrations</sub>
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&perline=4" alt="Database technologies"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square" alt="Firestore"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Data_Modeling-0EA5E9?style=flat-square" alt="Data modeling"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>🤖 AI & Automation</h3>
-
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLM_APIs-0EA5E9?style=flat-square" alt="LLM APIs"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square" alt="AI agents"/>
-<img src="https://img.shields.io/badge/AI_Workflows-2563EB?style=flat-square" alt="AI workflows"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-DB2777?style=flat-square" alt="Prompt engineering"/>
-<img src="https://img.shields.io/badge/RAG_Concepts-7C3AED?style=flat-square" alt="RAG concepts"/>
-
-</td>
-<td width="34%" valign="top" align="center">
-
-<h3>📊 Data & Analytics</h3>
-
-<img src="https://skillicons.dev/icons?i=python&perline=1" alt="Python"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="3" align="center" valign="middle">
-
-<h3>☁️ Cloud, DevOps & Developer Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,aws,gcp,azure,vscode&perline=9" alt="Cloud and developer tools"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square" alt="Hostinger"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
-
-<br/><br/>
-
-<sub>Cloud Platforms · Deployment · Version Control · Development Tools</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## ◈ Featured Projects
 
@@ -339,94 +166,6 @@ I focus on creating digital products that solve real problems and deliver practi
 <br/>
 
 <em>Every contribution is a step forward.</em>
-
-</div>
-
----
-
-## ◈ Professional Experience
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CAREER-JOURNEY-0EA5E9?style=for-the-badge" alt="Career journey"/>
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-<td colspan="3" align="center">
-
-<h3>💼 Professional Journey</h3>
-
-<sub>Experience across web development, data analytics and website design</sub>
-
-</td>
-</tr>
-<tr>
-<th align="center" width="30%">POSITION</th>
-<th align="center" width="35%">ORGANIZATION</th>
-<th align="center" width="35%">PERIOD</th>
-</tr>
-<tr>
-<td align="center" valign="middle">
-
-<strong>💻 Web Developer</strong>
-
-</td>
-<td align="center" valign="middle">
-
-<strong>Digital Brahmans</strong>
-
-<img src="https://img.shields.io/badge/Professional_Role-0EA5E9?style=flat-square" alt="Professional role"/>
-
-</td>
-<td align="center" valign="middle">
-
-<strong>October 2024 – Present</strong>
-
-<img src="https://img.shields.io/badge/Current-10B981?style=flat-square" alt="Current position"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-
-<strong>📊 Data Analyst</strong>
-
-</td>
-<td align="center" valign="middle">
-
-<strong>The Website Maker</strong>
-
-<img src="https://img.shields.io/badge/Data_Analytics-8B5CF6?style=flat-square" alt="Data analytics"/>
-
-</td>
-<td align="center" valign="middle">
-
-<strong>July 2023 – October 2023</strong>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle">
-
-<strong>🎨 Website Designer</strong>
-
-</td>
-<td align="center" valign="middle">
-
-<strong>Technex, IIT (BHU)</strong>
-
-<img src="https://img.shields.io/badge/Website_Design-DB2777?style=flat-square" alt="Website design"/>
-
-</td>
-<td align="center" valign="middle">
-
-<strong>August 2022 – September 2022</strong>
-
-</td>
-</tr>
-</table>
 
 </div>
 
