@@ -17,9 +17,49 @@
 
 ---
 
+## ◈ About Me
 
-# 💫 About Me:
-👨‍💻 I’m currently working on Web Development & AI Automation<br>🤝 I’m looking to collaborate on Web, AI & Automation projects<br>💡 I’m looking for help with AI Agents & Advanced Automation<br>🌱 I’m currently learning React, Node.js & AI Technologies<br>💬 Ask me about WordPress, SEO, Web Development & Automation<br>⚡ Fun fact: I love turning ideas into useful digital solutions
+<table>
+<tr>
+<td width="62%" valign="middle">
+
+<h3>Hey, I'm Sagar Saini 👋</h3>
+
+Web Developer and AI Automation Enthusiast with 2+ years of practical experience building responsive websites, business applications, e-commerce solutions, and automation workflows.
+
+I focus on creating digital products that solve real problems and deliver practical value.
+
+<ul>
+<li>🌐 Responsive websites and web applications</li>
+<li>🤖 AI automation and LLM integrations</li>
+<li>🛒 WordPress, WooCommerce and Shopify</li>
+<li>⚙️ REST APIs, backend systems and databases</li>
+<li>📊 Python, data analytics and visualization</li>
+</ul>
+
+<strong>Current focus:</strong> Web engineering, AI-powered tools and scalable digital solutions.
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python&perline=4" alt="Core technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/WEB-ENGINEERING-0EA5E9?style=for-the-badge" alt="Web engineering"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI-AUTOMATION-8B5CF6?style=for-the-badge" alt="AI automation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PRODUCT-BUILDING-10B981?style=for-the-badge" alt="Product building"/>
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🌐 Socials:
