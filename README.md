@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="assets/sagar-hero.svg" alt="Sagar Saini hero banner" width="100%" />
 </p>
 
