@@ -39,7 +39,7 @@
 
 <h3>🌐 Emerging World</h3>
 
-<img src="https://img.shields.io/badge/DIGITAL_SOLUTIONS-701A3D?style=for-the-badge" alt="Digital solutions"/>
+<img src="#" alt="Digital solutions"/>
 
 <p>Web development, AI automation, custom business tools, e-commerce and digital services.</p>
 
@@ -269,7 +269,7 @@
 
 <a href="https://www.instagram.com/just_sagarsaini/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.facebook.com/sagarsainiofficially"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.youtube.com/@emergingworld"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.youtube.com/@emergingworld."><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
 <br/><br/>
 
