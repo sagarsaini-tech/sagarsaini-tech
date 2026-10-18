@@ -1,0 +1,43 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footerTitle footerDesc">
+  <title id="footerTitle">Sagar Saini footer</title>
+  <desc id="footerDesc">Premium burgundy footer with a minimal closing message and subtle animated accents.</desc>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E5B5C7" stop-opacity="0.08"/>
+      <stop offset="0.5" stop-color="#C77B9B"/>
+      <stop offset="1" stop-color="#E5B5C7" stop-opacity="0.08"/>
+    </linearGradient>
+    <pattern id="footerGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#F8F0F3" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#footerBg)"/>
+  <rect width="1200" height="200" fill="url(#footerGrid)"/>
+
+  <g opacity="0.8">
+    <circle cx="210" cy="100" r="54" stroke="#C77B9B" stroke-opacity="0.36" stroke-width="1.2" fill="none"/>
+    <circle cx="210" cy="100" r="34" stroke="#E5B5C7" stroke-opacity="0.32" stroke-width="1.1" fill="none"/>
+    <path d="M186 100H234" stroke="#F8F0F3" stroke-opacity="0.38" stroke-width="1.2"/>
+    <path d="M210 76V124" stroke="#F8F0F3" stroke-opacity="0.3" stroke-width="1.2"/>
+  </g>
+
+  <g>
+    <text x="320" y="90" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="6">LET'S BUILD</text>
+    <rect x="320" y="108" width="420" height="2" fill="url(#footerLine)"/>
+    <text x="320" y="146" fill="#C77B9B" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="3">SOMETHING WORTH EXPERIENCING</text>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M920 68H1090" stroke="#E5B5C7" stroke-opacity="0.26" stroke-width="1.2"/>
+    <path d="M920 94H1056" stroke="#E5B5C7" stroke-opacity="0.2" stroke-width="1.2"/>
+    <path d="M920 120H1018" stroke="#E5B5C7" stroke-opacity="0.15" stroke-width="1.2"/>
+    <circle cx="1098" cy="68" r="5" fill="#C77B9B"/>
+    <circle cx="1065" cy="94" r="5" fill="#E5B5C7" fill-opacity="0.7"/>
+    <circle cx="1032" cy="120" r="5" fill="#F8F0F3" fill-opacity="0.6"/>
+  </g>
+</svg>
