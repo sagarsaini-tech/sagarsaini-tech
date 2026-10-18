@@ -1,5 +1,5 @@
 
-<!-- ================= SAGAR SAINI | PROFILE README ================= -->
+<!-- ================= SAGAR SAINI | GITHUB PROFILE ================= -->
 
 <div align="center">
 
@@ -15,6 +15,11 @@
 <a href="https://www.linkedin.com/in/sagar-saini-tech/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://emergingworld.in/"><img src="https://img.shields.io/badge/Emerging_World-Visit-701A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Emerging World"/></a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sagarsaini-tech&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
 
 <em>Designing · Developing · Automating · Innovating</em>
 
@@ -24,9 +29,9 @@
 
 ## ◈ About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="62%" valign="middle">
+<td width="65%" valign="middle">
 
 <h3>Hey, I'm Sagar Saini 👋</h3>
 
@@ -43,7 +48,7 @@ I focus on creating digital products that solve real problems and deliver practi
 <strong>Current focus:</strong> Web engineering, AI-powered tools and scalable digital solutions.
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python&perline=4" alt="Core technologies"/>
 
@@ -69,9 +74,13 @@ I focus on creating digital products that solve real problems and deliver practi
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/TECHNOLOGIES-I_USE-0EA5E9?style=for-the-badge" alt="Technologies I use"/>
+
+<br/><br/>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>🎨 Frontend</h3>
 
@@ -79,10 +88,14 @@ I focus on creating digital products that solve real problems and deliver practi
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind&perline=4" alt="React Next.js React Native Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind&perline=4" alt="React Next.js React Native Tailwind"/>
+
+<br/><br/>
+
+<sub>Responsive UI · Modern Web Apps</sub>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>🧩 CMS & E-Commerce</h3>
 
@@ -92,12 +105,17 @@ I focus on creating digital products that solve real problems and deliver practi
 
 <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor"/>
 <img src="https://img.shields.io/badge/Divi-6C2EB9?style=flat-square" alt="Divi"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=flat-square" alt="Shopify Liquid"/>
 
+<br/><br/>
+
+<sub>Websites · Online Stores</sub>
+
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 
 <h3>⚙️ Backend & APIs</h3>
 
@@ -107,10 +125,19 @@ I focus on creating digital products that solve real problems and deliver practi
 
 <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" alt="REST APIs"/>
 <img src="https://img.shields.io/badge/Authentication-8B5CF6?style=flat-square" alt="Authentication"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/API_Integration-10B981?style=flat-square" alt="API integration"/>
 
+<br/><br/>
+
+<sub>Server Logic · Integrations</sub>
+
 </td>
-<td width="50%" valign="top" align="center">
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
 
 <h3>🗄️ Databases</h3>
 
@@ -120,30 +147,31 @@ I focus on creating digital products that solve real problems and deliver practi
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL"/>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square" alt="Firestore"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Data_Modeling-0EA5E9?style=flat-square" alt="Data modeling"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 <h3>🤖 AI & Automation</h3>
 
 <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=flat-square" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/LLM_APIs-0EA5E9?style=flat-square" alt="LLM APIs"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/AI_Agents-10B981?style=flat-square" alt="AI agents"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-DB2777?style=flat-square" alt="Prompt engineering"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/AI_Workflows-2563EB?style=flat-square" alt="AI workflows"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-DB2777?style=flat-square" alt="Prompt engineering"/>
 <img src="https://img.shields.io/badge/RAG_Concepts-7C3AED?style=flat-square" alt="RAG concepts"/>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 
 <h3>📊 Data & Analytics</h3>
 
@@ -154,16 +182,19 @@ I focus on creating digital products that solve real problems and deliver practi
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
+<td colspan="3" align="center" valign="middle">
 
 <h3>☁️ Cloud, DevOps & Developer Tools</h3>
 
@@ -173,7 +204,10 @@ I focus on creating digital products that solve real problems and deliver practi
 
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square" alt="Hostinger"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+<br/><br/>
+
+<sub>Cloud Platforms · Deployment · Version Control · Development Tools</sub>
 
 </td>
 </tr>
@@ -312,28 +346,89 @@ I focus on creating digital products that solve real problems and deliver practi
 
 ## ◈ Professional Experience
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/CAREER-JOURNEY-0EA5E9?style=for-the-badge" alt="Career journey"/>
+
+<br/><br/>
+
 <table width="100%">
 <tr>
-<th align="left">Position</th>
-<th align="left">Organization</th>
-<th align="left">Duration</th>
+<td colspan="3" align="center">
+
+<h3>💼 Professional Journey</h3>
+
+<sub>Experience across web development, data analytics and website design</sub>
+
+</td>
 </tr>
 <tr>
-<td>💻 Web Developer</td>
-<td>Digital Brahmans</td>
-<td>October 2024 – Present</td>
+<th align="center" width="30%">POSITION</th>
+<th align="center" width="35%">ORGANIZATION</th>
+<th align="center" width="35%">PERIOD</th>
 </tr>
 <tr>
-<td>📊 Data Analyst</td>
-<td>The Website Maker</td>
-<td>July 2023 – October 2023</td>
+<td align="center" valign="middle">
+
+<strong>💻 Web Developer</strong>
+
+</td>
+<td align="center" valign="middle">
+
+<strong>Digital Brahmans</strong>
+
+<img src="https://img.shields.io/badge/Professional_Role-0EA5E9?style=flat-square" alt="Professional role"/>
+
+</td>
+<td align="center" valign="middle">
+
+<strong>October 2024 – Present</strong>
+
+<img src="https://img.shields.io/badge/Current-10B981?style=flat-square" alt="Current position"/>
+
+</td>
 </tr>
 <tr>
-<td>🎨 Website Designer</td>
-<td>Technex, IIT (BHU)</td>
-<td>August 2022 – September 2022</td>
+<td align="center" valign="middle">
+
+<strong>📊 Data Analyst</strong>
+
+</td>
+<td align="center" valign="middle">
+
+<strong>The Website Maker</strong>
+
+<img src="https://img.shields.io/badge/Data_Analytics-8B5CF6?style=flat-square" alt="Data analytics"/>
+
+</td>
+<td align="center" valign="middle">
+
+<strong>July 2023 – October 2023</strong>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+
+<strong>🎨 Website Designer</strong>
+
+</td>
+<td align="center" valign="middle">
+
+<strong>Technex, IIT (BHU)</strong>
+
+<img src="https://img.shields.io/badge/Website_Design-DB2777?style=flat-square" alt="Website design"/>
+
+</td>
+<td align="center" valign="middle">
+
+<strong>August 2022 – September 2022</strong>
+
+</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
