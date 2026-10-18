@@ -15,11 +15,6 @@
 <a href="https://www.linkedin.com/in/sagar-saini-tech/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://emergingworld.in/"><img src="https://img.shields.io/badge/Emerging_World-Visit-701A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Emerging World"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sagarsaini-tech&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
 
 <em>Designing · Developing · Automating · Innovating</em>
 
